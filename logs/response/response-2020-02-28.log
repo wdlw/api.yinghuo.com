@@ -1,0 +1,246 @@
+[2020-02-28T17:29:40.209] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /login/mina
+request client ip:  127.0.0.1
+request body: 
+{"errMsg":"getUserInfo:ok","code":"011yj9on04hpSm1R1ipn0KUXnn0yj9oe","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132"},"signature":"747cf1fe29c27b0be15f160e64b3b63e6342f4ef","encryptedData":"UYYeU85QPHG3pap1KPpPnrr3Rbe3AjVi0ruuOpUaPzTuxM/Uzrcn31kvrMCpyw0EqOvfTKZ9gBgHA08Do0K1SAgchQjnipflY0FiM8zKcxFyISDncU0kz0DqExaFP4SftHFACDqFmZRx8LXYld4t+MhegkPH1fXtYHLwEzizJM5AnmUW/LjHEVt0hWz7+LMWFvi2sEHVH9EwuY2jrgn9E65xDhyPEQMbDf4lDyErvDQnvdljO6KlYFI9syVF91ui7B9EB809coBY19euiW3VLu2pzNZ2103OoyqaGpnF1duS04n/3dxkafqlWIEheCF+9ap+zK98KFmBYONxFEvqtsJjqyOMqDvFrhWk2yTBda5jLNbrhwhL72SinsS3aBFegLbhrwy2RGVlPC+j4D92OBZFe0WWriuOsSM4puoubzA3PORlWIMhqrROxt8IvCR0GuuG0C5o6LFmoPHYm3cqa4pRNGxZ8+1uuUxkqHn7kuo=","iv":"Y0+CZdVYHdZyP0b9EYbvyQ=="}
+response time: 25
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2020-02-28T17:30:51.638] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /login/mina
+request client ip:  127.0.0.1
+request body: 
+{"errMsg":"getUserInfo:ok","code":"011Z3T010ovZyJ1e6Z310c9S010Z3T0k","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132"},"signature":"747cf1fe29c27b0be15f160e64b3b63e6342f4ef","encryptedData":"o4dJadmjNjxywdPkMQcJ/DzHCvmE6QHkokcLPohIW3WeqHF/LmIwZZAfFnx5fdPBJqu/kArWKa9QFobYveXYq1VFcWpYdt1Oyd/XEbAoCEettQ2OK5A2AUchMnTFM5RGJPHNY81PQjN8hyETMos4L6Z3nu30n8iS8T08dQL/KiXEw3Nw3wG7h2ikLLp6x2inAUGgePJjYxbZwA6ioiqAJvlD4hI09R9+JKTfQ+jYddhRkeO0o8Yx6yKAcgdR/m112Mkv46eM49rWfoFKAoq6KVudCBoSf9fWd+8iaQTtU0r6ScJlvJ3jJoYBEDWsQj+n/KAdpMZ9fwyPqGDEPDNxppRLEl/ey7gP3zeVacet7tZGw+Gup78HRJ9BfF837xk2dPfIy1523mlpLMOAgKshrb3Mmh7m4/PQf6YYDDwKCTMFU2yRaRlCoNGareWuUfxvgDcZZ2Ip0XUzadF3HMxzvKu3hXeD9S5hkYCcD1gG7Co=","iv":"4GE6u1MDJeDWAFqOFyohTQ=="}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2020-02-28T17:34:59.861] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /login/mina
+request client ip:  127.0.0.1
+request body: 
+{"errMsg":"getUserInfo:ok","code":"021mLob90ZgAZz1N01c90VWnb90mLobd","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132"},"signature":"abb61642b27adc8b40620e0ffe62ee23f7184824","encryptedData":"K4dLye7heAAcAIJgiHYYCvOAlTsFDBMGw3O9qElpaZnBZmu8maIvhSIcMk6uFYHjg9RVvPqBnV1xO0eSni1G6voh7mxiOiB8+Ei9gHLnALLqGN5J3dxLq/EfHjTQQ48ECouY6QH0Cbi26YmnvM+wjXdHgtDqMzdvenQrKc6TgMstGfZ0eNSCOjG07afdOmbRb0xg//lLL0oCSHViKU/h1EtTN/mmE7lWH6QwG3yLU4KMq26s5a8scRT5vEGY+a9ztyWslmT+009l/P6drmod4CjUQPH+MCkURKpvKc6RaDteTxqb3ZP743kE6d8T/m60lZRjniLD1eC+0E635zx8nBg6gxWDVlCRwaIyIYIXAwWciTSHLcrJQJVryp/FnGapakfPP2vtGeiOZedBn7rANZGEayq9qEdkpI7sq3S23laW3q5OVVATbbCijYgdzgGR3BscBFYguJz+sV8bT4LcQSeOImLO1yyUq5D+F65Eg9M=","iv":"d8gyxNsDjtWC9WWzOp+QBA=="}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2020-02-28T17:35:00.185] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /login/mina
+request client ip:  127.0.0.1
+request body: 
+{"errMsg":"getUserInfo:ok","code":"001IpWNb2ubTpL0huAOb2YuMNb2IpWNp","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132"},"signature":"abb61642b27adc8b40620e0ffe62ee23f7184824","encryptedData":"Ac5+ylZH5uJ1VVXbvNH+G39qmzXiAXvKNeU/Q/ZEdoBaN/ALAKgwc1jLQ8yediClWR8F+Uy7ozgNxGBlfgi/UaWj0SY1CWb4d6JtyMRJAX0t0tMSFwX4+kiV9tJoKJ5M9WnvAbRQxhOpulme4o5GviHPS/SmUZtYyMSF7LBHCsYhdL/ZFhCosjRVv1a2B9CKHLD2skTzQEykw0NRbE6DtmcF4urbpzBhvPjB0DnpVV87Mg0yMCRsaQPUGs1prGRezRFmz14/t3y5sk97KSUb6vchdP+G/HoQIMTLdkA0uZ4pfYyYrlStudHhSpgj6xzHzL3ZQRac64fOffmz6jk84bOz9Su3C8HqxRt09WB6Hxv1RXLmHJ76CB3NsmAlTyAAQ0PcyJs8ygMlr+Tzpj17ZulpSaciao0oqtpzfAJaBmrHTdjymRSSntr6uiT/N6Ama4uJA/8W+xK0Fy8vkvm4ke0/LsoSuh5k4A8gYUfjQ7A=","iv":"zbAQT9W7cU6AJohJP8xA4w=="}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2020-02-28T17:46:26.127] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /login/mina
+request client ip:  127.0.0.1
+request body: 
+{"errMsg":"getUserInfo:ok","code":"081bVuzc1v9GhA0ZEKzc1Siqzc1bVuzl","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132"},"signature":"a208bc77620e668285eada86c2fe26eef208321d","encryptedData":"+nzIfWW3vImhWJ/itc2rNFXyUxdJ3QrDnkxBalXfyrzAcOlM2ijxESEWO/HNKe4rdVm7IIXvWp6Sty9/Wo+bIXk/tDtzJuVjHThKc6hZ13avYMzqmD/Bz6fwAxmdNuAzWu7thz04MFNf1BHylCyLPdFTOuh1294dl4oenR/g7HBIcCHoYZb/WaUEpHBCKIGnLr00ROJEjGH/geDIzZ59WgBaCKACjsVSFct5fz/IG0F3h0HAOaIrVqCUZc9aa5JoH/DR04Z39W610LYDg2Ek0N+k7erIJ0fT4586vM9EbowgcA26T6LkxgIeU1qt6nrXDsFR1TYFCZHmrK+pOXERqGQG38PUiXDolKVLwCrKuvym+3VSo4oGdcZHGbJETX6jZtBhCY+93gRXHL2hcJ2c7vsAyTRFoBv5OPkChjTDDoKw2w7J5N+fjcpePkGIdEjw02cWHb7GT2b3/ll4YyOQHNnqkTvBSR+jhYohDVL/laA=","iv":"XJqZLgNC52Fxo8mLDThBCg=="}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2020-02-28T17:54:56.210] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /login/mina
+request client ip:  127.0.0.1
+request body: 
+{"errMsg":"getUserInfo:ok","code":"061Who802WoyXV0Lx7702vfE802Who8d","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132"},"signature":"f19a9cd9294278d6066d616f116ca3a9c6ccbf1e","encryptedData":"B9Q31sZYvrPVa9yZ1qp1luF1JX6uVQouV6G4rkz/oba1WDWYVNZ2PiDmR/2ToVd9hIs7Xj1FLpypGSPqvGKOH7rj4QFVggEfsXbNoV4af3nxutC+rAP9fz/nt7WKkoAvP2Ub7dDKbtHDyh9H/35xNfK60NOoED8ArBB3FW2J6f1QB7T8OJa4PMiU6z9jXwREa2wRwwg0EYVanon0LMLFSkErcQMTrBuXO5fAYZ/pbnfBO3pA58JAVx+VnAayLipDhcHFViFr63hgIrzVHWJrLJVckkDOxzw8Nnrg4BR1bowOCougBbe5zxNCHe/hKFClur0MzY1IRqGT+jzhCoUv0mjV2tQ6ywtDz1OD8oG2eh8SL7dCmfu++cSnYAYf00uZUjdfCFECqkMMd/YX4eNCmoHOBwP/75s188HOExqLhJXn+OEe5KsIWM1+afCkm8WIN+9Y+/UxL0QE3UGxcImKFg/holL9NjbdWT+OyJbvWAE=","iv":"6MMTMAiah+6GuK+L2ev0JQ=="}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2020-02-28T17:56:13.545] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /login/mina
+request client ip:  127.0.0.1
+request body: 
+{"errMsg":"getUserInfo:ok","code":"011tMKt92YPfMN033mr92NJGt92tMKtn","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132"},"signature":"89926127f35f5dd1735b309a050d005c16b06f32","encryptedData":"pKKXvO3s+SBDzIcZ+k3crX1OXZw8/UAt/ljWgliU6sT/68aEi8LMlARLLoyr7Ki9U08l4R3KSzsSD8bt/oEPxzDxoknChL6RjGO/LN2O1e4U0ltRmlLx0av+vwCCOpaZnRQq9M+poeKOAEOWsJvofMqpUrS4jh32LiVDEGiNTRO3nyaeG5I6t2JK27zwyPiO+pzCUE8UqqKRErDdukNFQJYqT4onFaTFzIGtHFqEPYBNp4Bo9/NEgqaTOKJvRzWPbZXYwEiBDp9VLNve5bnPeviVC1gTPMMuWoEvlSteSFOimcm6mtd520dtFbxFC2xflQaK3vtFuWoYBHIr3BnYEOaatpPNk0616/0iqUPRVhIn7GsqPOjmUQ/oubqBnoU9K5oWWp489XyvFpNby8f8ZuWvXWF0KyMPEOxdNd3uuegiixha9quSF0Bul0Gaw2QD7rbkTC2vSDRmcvfqAttIKTWtMkFazEmY1jKRRmBhauA=","iv":"zDEfevfJ6bVFB8eK0NJVWA=="}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2020-02-28T18:02:42.789] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /login/mina
+request client ip:  127.0.0.1
+request body: 
+{"errMsg":"getUserInfo:ok","code":"021TkD5T0NBsS12TcB6T0dOo5T0TkD5x","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132"},"signature":"cbf67c3c45c59d03676a3853580e93aac6bb9ad1","encryptedData":"g8yGrUt34HT40fWYRansMhlX40asf+5vN2b4gEJNxvixg8m4EAFRRM7yZjfhGm9mcr6+oS18vCJuqqjzTcBDnYQDCZ0oYS8CF1QTstw8cb8DcwKA62ujUruXU20ghdWQgkL0ancHvqXlpKQHkBv/SvFiOFc9Vfl9nbWscE1KS72BKuSEmLQgkWlJMXtPxhs5pKW3H0hG8LXnXb1tVkcbeJHzMJJb33S4eq74KdU3vQDLNLX61zaQ9zJweB8mEDGBYnMI8UToy9X0GdYAb4U7g3hYvZx6qqUsnl/kiVSCOaEQlvZMOqhuV8jHQk+1DzaWeHbilpdKN+lVG3fo0znczrSafoFm8hKxnZkfHuXeOWOmFW3Yr2BwfvdbhRy06Ot8JuTaB0QLdqjsPLRKWGe77okG5lTP8tOF36a96vTL0e9/tj6nl3lHxYD+bVaFJdPnZDoP9J14ETSpU+fmlnHS0UpUMqzohrlOxgyXHJ3mMlE=","iv":"JuBdwCk912Y5XEidSrEOQw=="}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2020-02-28T18:03:27.142] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /login/mina
+request client ip:  127.0.0.1
+request body: 
+{"errMsg":"getUserInfo:ok","code":"011XAov21KQXpS1DZqw21RUFv21XAovp","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132"},"signature":"cbf67c3c45c59d03676a3853580e93aac6bb9ad1","encryptedData":"jPnoTwSVFPDhyOgNy+5XC2ocdxO6QFDcsuq02xrM760JiZxVg6rRwLWUPLY2NGPQexzNx3Bc7kWjDRKSuEOjsxkjt44wAZb4+4HG4OeKoUMxODjliBMOCpnkWkvElTd44tzHwtjL+ulHbE7JoZzhG+iLW5tO5KgU/wzyq7ZBD4Vh81NCGV6PjsaG1dtdYAQ2eCFWQuNEqfxWmN3t91xYEvsMxpcsWWao52NB5zDxUetDEwTP3duFIH0098kzwj/LJy1lBpKCbWb5UqyywQfIESFfDV/Oh5PdAkuGwNFxra5O3CDarfm+Fq4gwvtoOhSd/15hHi4m78Ok63cty6s9xnSuAUeUfYdHbFmkFkpToYb1Zw6/R2qbfC2Oe7i6qUzKCcyuQr6d7BwyOFYYccUyrhp2Yq0lXwQY1jg2aWqAPkhyrQShsenIJAnNirk9BMvvWJVZg54G1zEDZEChGPOeCmQO3GJ9lBewBFCWQn6a6vA=","iv":"leY3SoRvuBVbO9sydgpfHQ=="}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2020-02-28T18:06:02.471] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /login/mina
+request client ip:  127.0.0.1
+request body: 
+{"errMsg":"getUserInfo:ok","code":"071wq9jg0wIdRs1PxVgg0dFjjg0wq9jc","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132"},"signature":"966f8b1f9907200b2abb23bacbd01e7f6b9dba2e","encryptedData":"/cxmiIs09yisl6qgxJPJCb6mikhoSDIvLCyfM7yKXqde48tZnDoptttwcExIbi4YGtRltdO2Qa1uyXX9Dcs2A3K15FZ7VDcF8wJZP/U3AGsAMY7SixP+FW7K6c6mfhYXcPl/AoQirS2xtVG1tHtxKJtBV38ZzY/pycPcFRdsnBHkYJnywEmTJT2ef+c/ITRarGvshzk+GBBuLtIWzkHxraPoIy6y5wnq4B/yPZmWh1LAybKhV7oUDPNZUkpssDC8TdcsV4X0YGoftkHUQ2LAHPmzZsJlXrOxzWARRBb6+00CROHF5tupWSIrRgC57CsGdGaDO1f3V/v+wqzAhJLmIjud4fLBeM0+ieX07EDTWWfD8Ybg+l3LcQpLuGUgqGBUpQD2BBzGp1FzxTMiGDm3GXzUwJe3lOcjGx32k+awMf1BiXVRm2NNWFH1pOoAr+/tKbwu/aknHrllpuEkfLI8IqH9D7CV4yYj57QQjr25MJM=","iv":"sxuwRIoPspgpOJkzE4yopQ=="}
+response time: 0
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2020-02-28T18:08:05.573] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /login/mina
+request client ip:  127.0.0.1
+request body: 
+{"errMsg":"getUserInfo:ok","code":"021XJ0aG0iSscg270BcG04Q3aG0XJ0a2","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132"},"signature":"86e0132299bfbcaf77ba592146f374a5faefe7bb","encryptedData":"zbx7nREmDIWNRn11AflfGXezwI41olQdJY2aCn60075/ZJs/PWo4d82oGsD5QIKIoQgEKaaBiIG7Wr0BX+4d8iABh/uMfl1Pi6QortY3PMuVdH+j0RmPLe4o0KAxYUln9yKgBZ7PuS7T4XK92yyfjxVyy3z6NfCSEGbh6oznrfHyxndSX4lHgTsg7ALtMfSWxXqxmW8UU8uwd8b0GUFsvD4AmTMGrsCPfQzX4E52EYm88ux6crPJE/tp9ZJ6iH3Pcd3S4mrNai7w8ibQqEaKzBCLjY+CwJZXMKRgVCyvavkpwS/m022kKWO6YavWxwqGwMe3ji4jOjH/NB+hDTvYB0MIyTZicyBTAr7VLvaXdHWTN+LqaSnMTijaPToaLWiRcrd7d+5MiGEGcTOP+oBPoXdggzVeUYzicFVrr96ymno4fIaUAbBI566cC9cZ3D41vHJkZQhYqNT+Y+COd9i39e3UtX/kot3+R8NpxKrJsgg=","iv":"1xkvfSW3scXLjQa/TeW14Q=="}
+response time: 1
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2020-02-28T18:20:58.827] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /login/mina
+request client ip:  127.0.0.1
+request body: 
+{"errMsg":"getUserInfo:ok","code":"001WNdyV1gS9x01dHCvV1SmayV1WNdy2","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132","openid":"oxhcJ0aM6ilPMkNld4vsrBbU0mTU","session_key":"IpxVki6kMOzVDdUB88eFmw==","location_name":""},"signature":"02ef7b92d43dba16e3638cd66ebafcb023c366e6","encryptedData":"K16HoSAJ1ZwAAkS4s5pBIFqwLB1KkCKnRHOO+M+kDeErAe6WUrCezKpdsr/e3FjtsVYe7J8gWcFAou2j1Pzpyi2kOi7RTdkQi2lB71wjVLKxQLyJQqA9tsVESmhu+d0azmwpCzsorNG7NGMOG8riaUrmYgerLi2MVEbTyo4uMIvye2Eq6Jv/EMg+QWcDV5mZFUzMf8isJ/uaRnlpn6dEnhaoVeCGKNd2LToFuNr6b++x8FLRadOQqET5ftPMKstxsOAlmjiz9MDjJp1EHk4RfUq8N9AwGPK4DKvUheOPPiK0LE25E04/TLsavXnKGzx7SnKA2JrTmIVoydMpFhjA/elo3idFLKCVNGG7DE24PcrJ0QdSUg5AKJma9dqddwyD6dW3qcjoIw/v2iefpgA9Qxk0m83W5ek0uLGFYu1nbmQpiJkrzEMzfXNP6Ac+Q5LfZcpUeUQpDeqgVHNpfiqoAcw3dFFsJJKzvIMTjpMz69o=","iv":"WPUTANfJk2qLF4p+CTWMDQ=="}
+response time: 203
+response status: 200
+response body: 
+{"success":1,"data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicGhvbmUiOiIiLCJvcGVuaWQiOiJveGhjSjBhTTZpbFBNa05sZDR2c3JCYlUwbVRVIiwiaWF0IjoxNTgyODg1MjU4LCJleHAiOjE1ODM3NDkyNTh9.h7ZFUCZrw5254drnLNENagnSP45wxqNDYR7UoOrFD_I","user":{}}}
+*************** response log end ***************
+
+[2020-02-28T18:26:44.797] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /login/mina
+request client ip:  127.0.0.1
+request body: 
+{"errMsg":"getUserInfo:ok","code":"0616Cdp20kmILG1ORUm209szp206CdpZ","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132","openid":"oxhcJ0aM6ilPMkNld4vsrBbU0mTU","session_key":"PfB+g/xO8WXEatrdaK1Gwg==","location_name":""},"signature":"bdadd83f0b176667406b35b2c6de6a531eef5e82","encryptedData":"Z0CyM7u6AInOVRIe4Ss75PWP1Tj0pFOLDX/HCaVJNECoQzO4a8qM+9kw/4dMjyBA9HQkhVUzoE5AfE6K8UW9KqIVJGsmXjWS4sB4F5milDO9vqJ5beL7Vgg9bMmYr+limwO8J5f0Fz695f3p5clrWy5VE8V4VF40BzyCVcRIie8UKBOxUKYAd+Wzyun0l33T75sTI4LTQSs1H4FepE/5e+PjWPTUVNltBEnhOWkACMikPhJCRWOhua1oHbwMUNO3jx+he9jfROrtGCpJQxsKx8v0ahYquNo/rhqDNP91yplbnalBzS6abkOPmFu2FWztXY+E1gVQPMFceuwg8tDJ/6DPst2u/1iw3AMyF5Lz19vBW+EQEpBZzu3xHslulcgTcj6sKoi9/0XhcnkXy6K5UWI3EOEafni4+1Ps6RBQfSDwu+t3VqH9lIwOUUKsMThSU8hJIPx/uA7f43WK68xCR58K5Qqbm+jirZ9LSRmVy3k=","iv":"yazw+2XnBboUB43TZ9CX1w=="}
+response time: 295
+response status: 200
+response body: 
+{"success":1,"data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicGhvbmUiOiIiLCJvcGVuaWQiOiJveGhjSjBhTTZpbFBNa05sZDR2c3JCYlUwbVRVIiwiaWF0IjoxNTgyODg1NjA0LCJleHAiOjE1ODM3NDk2MDR9.JqVq3WXSMj2x4plh6GkxKfhmIckkTrWvI8ohDFPG498","user":{}}}
+*************** response log end ***************
+
+[2020-02-28T18:27:20.838] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /login/mina
+request client ip:  127.0.0.1
+request body: 
+{"errMsg":"getUserInfo:ok","code":"001T1xOo1vM1Ek0d7lQo1AQEOo1T1xOy","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132","openid":"oxhcJ0aM6ilPMkNld4vsrBbU0mTU","session_key":"PfB+g/xO8WXEatrdaK1Gwg==","location_name":""},"signature":"bdadd83f0b176667406b35b2c6de6a531eef5e82","encryptedData":"l0ngWVxTbtV6YLs5QPjgx0YAQOF6mx9n//mMM4z9G/+U/QLtjAadUWwgwt5+oAPA/xdXYebAWbKH98fKoIzyFL2mu+HV2gaSYU1anrY9m6DcZ6llt9dAzw9k1DSkoQ5wMQ8dvneAC3in2HTN564H//5HiK35XoAaavQnWj7Xmozf/lvQSWS0kdyFMnPDLfuJmk9mud0zdFenulKrCyqEVEJD0ZYBPFA7O+YnrDF0h3FkWxhje6b0f+h8bPrBStSzyISDwGolkkLnQ/XapcEyU12SyY7JAva4IX9m2CIsnqnCIXUbRMij0N+GbTroQYeFBrYUUl+QXfvwLSX/8k1Xwya2SBlP72odjNy5TeSDUafCxLZE32IZEGL3UvP2es+zMo0o05VCIudgO1ucVEy3DumOm6bsdP6zDUS/FgE4k1xHi1OC0mAPjGNbNdDHXBd7IGLrRnEM32ncveuNZS0AQRxsDJsNzrUcBSS8tcNFzAE=","iv":"BvlY16XOWUbh4pt0MLTP4w=="}
+response time: 239
+response status: 200
+response body: 
+{"success":1,"data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicGhvbmUiOiIiLCJvcGVuaWQiOiJveGhjSjBhTTZpbFBNa05sZDR2c3JCYlUwbVRVIiwiaWF0IjoxNTgyODg1NjQwLCJleHAiOjE1ODM3NDk2NDB9.kUN_2c2Ok2KFAxwH3eXOSn0g3vVtzOU5kNJpDwEGIhE","user":{}}}
+*************** response log end ***************
+
+[2020-02-28T18:27:45.588] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /login/mina
+request client ip:  127.0.0.1
+request body: 
+{"errMsg":"getUserInfo:ok","code":"071erpOS0hXP112PB9OS0m6JOS0erpOU","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132","openid":"oxhcJ0aM6ilPMkNld4vsrBbU0mTU","session_key":"PfB+g/xO8WXEatrdaK1Gwg==","location_name":""},"signature":"bdadd83f0b176667406b35b2c6de6a531eef5e82","encryptedData":"AmCsfzv/3dAgkjpTp2AmTun5is4uJ3Zb9XRPHu7nWz39lZm72+SlQuxWY4V9eAJao6WftzfTtFB6T/QThljydV2kzpqUUOaowSqQkqShOaC829FKZbPbvpmC6vC6SLK0nOb20jmijdnD2vWwW1d9s5O2yl8YChFF4r86NBYfH7+tMNEoKGfNHeIC+vBhAgb3Lg+R9WmM43wmeg9UUX+p5czs39G3U2LnWzhrv8L3aC/1XYNqDjRBGjuTGGkNU0+XK5ApAE59YE0AonyxjRXxp2UDEoB+YV50uL5l+HKKpHeEa83Z4EcUdgmWgQonP+0oCfqDD2IQ9HTcPv8t3hk1HpibcYARpOXh3awqKTSnJi6wSfGHxvnCcnJjS5h3ozHwzUgLBMMomLnXUIjNjGAXRkbKkFv0udL80NRfqLe2Sc4dhIdV60U8KSUXVfL7Lk/1L3kGmc6x2ko4CEu4JaKWraVMoKH1/hofY8wuxwPAeVg=","iv":"lxAdd3Xzn5rMrTHqni5a6w=="}
+response time: 204
+response status: 200
+response body: 
+{"success":1,"data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicGhvbmUiOiIiLCJvcGVuaWQiOiJveGhjSjBhTTZpbFBNa05sZDR2c3JCYlUwbVRVIiwiaWF0IjoxNTgyODg1NjY1LCJleHAiOjE1ODM3NDk2NjV9.92jGRpcaGNysURQF_saKl4Gk_oYjPfO0tCzlEXjJnf0","user":{}}}
+*************** response log end ***************
+
+[2020-02-28T18:28:20.095] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /login/mina
+request client ip:  127.0.0.1
+request body: 
+{"errMsg":"getUserInfo:ok","code":"07185yrn1TuqXn08hmsn1m0irn185yr3","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132","openid":"oxhcJ0aM6ilPMkNld4vsrBbU0mTU","session_key":"PfB+g/xO8WXEatrdaK1Gwg==","location_name":""},"signature":"bdadd83f0b176667406b35b2c6de6a531eef5e82","encryptedData":"83eYHm5gqWn4ZvE5ygLIALPKTecwYC6LhVFZh1C3j48m5+7kcX955NHPRGFwUyr53NQgQPwMkalTn3jbkRHmhrBPsU9vk1QzCOySKeLeCRL01q95z8yDP083A1f7r2vp5p7D051U8ybNjcxXRlwcqnS9VeDqiuQsSnvX1/INo8uoiyDXtfh/0jPWdXyZjRFK0a7OHjGdjDOxk1Mj3zyERDiellRSwPEAkq9CEUPIjEc5fP8omiZFacwCFmlRP994vkx4AfMhQLOtHXWbNGjmiXYzr5Iz/3toGscx2p9ozgBaCFHmisYF9FQJeuN17cTpmIDIk4dqrL7eFDPBvyzCxJejbKUFj2K9bmTjq6VTm5YdCWesnOcP30Y+7iwqg5sYQdJ1jsSDl7mDyOu0Q47t0VD3Dx7g1PoWk7auKqQQWnJpsbkTJ9SfbJYbERDcSNlhVWYunszJxm2+7/VjexqziPJphc7qPD1VebdUiHDKTQk=","iv":"GtoT8HPF06rJvFfc6sJ8iw=="}
+response time: 175
+response status: 200
+response body: 
+{"success":1,"data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicGhvbmUiOiIiLCJvcGVuaWQiOiJveGhjSjBhTTZpbFBNa05sZDR2c3JCYlUwbVRVIiwiaWF0IjoxNTgyODg1NzAwLCJleHAiOjE1ODM3NDk3MDB9.luInW-K5Bx47N28GV9N1kKyLOj4pd0JlTh3U2fJt5Xs","user":{}}}
+*************** response log end ***************
+
+[2020-02-28T18:28:42.288] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /login/mina
+request client ip:  127.0.0.1
+request body: 
+{"errMsg":"getUserInfo:ok","code":"0615coPA1L7aAa0MOFOA1YEHPA15coPt","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132","openid":"oxhcJ0aM6ilPMkNld4vsrBbU0mTU","session_key":"PfB+g/xO8WXEatrdaK1Gwg==","location_name":""},"signature":"bdadd83f0b176667406b35b2c6de6a531eef5e82","encryptedData":"rsabDD96I/dnf38D6njVwLJ6SdR9PB9WenixFGwqJw7HR8Xx13x0qoocopqig+nB9VAVfiJt4EYgqs/RGKbbeTxleEIQJUeCRcpIIiLNwJ73rSdIn62EtssugKoAebkxfXPL+UJxXZjuEiP2Pruk55Vi1evTCI94GGxJHcoikB/KRnul2xituQKt8UU3PGRlYBBmtZQwka1Xzfke+7HalunKGJ0b5uWGjw4t1m5/CGLixaMPuQ41d1dsKQKhbJ/sPPnWO4vF/J2ZXmbC+VcDPLTiBMfDG0MID8ttqXGqCC36pwQm5Lhs/ZsOZj70v1I3RdZCgrZZ7gvcnv1fX65Q4s3OKVZynuwRrQP6pHm4hhJMnXeaojOyCJVhVXQ6zWy0uLGrkNBKobwLPLSnE7WOtkNEty2C4ADBdhH+806k0YS5/O5lCZn1L5Cu1+xixmUibWjq1sAqcylX30j/6uA1LDHINFVXelpg8ePdIUg+tEA=","iv":"PaGjnMF/kCn9AePf7Tmlgw=="}
+response time: 189
+response status: 200
+response body: 
+{"success":1,"data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicGhvbmUiOiIiLCJvcGVuaWQiOiJveGhjSjBhTTZpbFBNa05sZDR2c3JCYlUwbVRVIiwiaWF0IjoxNTgyODg1NzIyLCJleHAiOjE1ODM3NDk3MjJ9.Zz01eWS5kZE8mvzo9gcr4JZ9ccIubooHQRNwww89wUg","user":{}}}
+*************** response log end ***************
+
+[2020-02-28T18:29:23.633] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /login/mina
+request client ip:  127.0.0.1
+request body: 
+{"errMsg":"getUserInfo:ok","code":"0010VHLU1NHLa01PcsMU1V41MU10VHL3","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132","openid":"oxhcJ0aM6ilPMkNld4vsrBbU0mTU","session_key":"voXq8DkVTYGdXRbsb/nSMA==","location_name":""},"signature":"f9e853cc7d85b85bca80a6e01ca42febeb3782f0","encryptedData":"A97FA0q84HVXrkt9TBa8PzhJzPX+UuFt8rE/R4lsymr0gKTg1SKkYZM4rObcjgIGGmUE00oA+/x34ZdLO5rEeF35Cx0FE4IBoKWhIGFRyZ8edl29BhfCfxKec0xSha1ykmvLswyv3cCf7m+SSdLzAqDZM9xENFFzC97MqRMpZog7bLcjXxISfZ4Q+i/M9vJ59iYuYzT2Q7zJJ6WP4iF9IUKa0DaIXlyBdwhb8CoCrKidxjLPbEuZGF3GkzJ/4yRk5X8XBCQeinba9VkbVgewUfxWRvyveX6Q13D4Ee/Pmyj5a0SAp5TPFSe7QCeNKtDwDXFKPjnkEG3Sn/y0LfRHz+s9KZ7ZSAM3H+WMT9vP0Sd5TlpEzvvd7OwWnIyCKyHyscxYI6y02+p/dNpb4Ba2kCMPtaQzZlrVTlgULDalDtxl2tTtvmi25wzy4Eru0rA1HnsmBp8qNoSUSc3cvztP7aOM37OCC0I31tAOTl6DBu4=","iv":"Azdm1iKvjLGmrJNTqwDuPA=="}
+response time: 187
+response status: 200
+response body: 
+{"success":1,"data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicGhvbmUiOiIiLCJvcGVuaWQiOiJveGhjSjBhTTZpbFBNa05sZDR2c3JCYlUwbVRVIiwiaWF0IjoxNTgyODg1NzYzLCJleHAiOjE1ODM3NDk3NjN9.ePLnLARd-GonS_ZQFIHYSgEA3o4aPrZRr9kQB9ARJ3o","user":{}}}
+*************** response log end ***************
+
+[2020-02-28T18:31:58.804] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /test
+request client ip:  127.0.0.1
+request query:  {}
+response time: 10
+response status: 200
+response body: 
+{"success":1,"data":{"phone":"1222"}}
+*************** response log end ***************
+

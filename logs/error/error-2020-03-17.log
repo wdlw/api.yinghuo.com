@@ -1,0 +1,19 @@
+[2020-03-17T16:01:51.865] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: PUT
+request originalUrl:  /user
+request client ip:  127.0.0.1
+request body: 
+undefined
+response time: 19
+err name: ReferenceError
+err message: logger is not defined
+err stack: ReferenceError: logger is not defined
+    at _callee$ (F:\外包\api.yinghuo.com\src\middleware/errorCatch.js:10:3)
+    at tryCatch (F:\外包\api.yinghuo.com\node_modules\babel-polyfill\node_modules\regenerator-runtime\runtime.js:65:40)
+    at Generator.invoke [as _invoke] (F:\外包\api.yinghuo.com\node_modules\babel-polyfill\node_modules\regenerator-runtime\runtime.js:303:22)
+    at Generator.prototype.<computed> [as throw] (F:\外包\api.yinghuo.com\node_modules\babel-polyfill\node_modules\regenerator-runtime\runtime.js:117:21)
+    at step (F:\外包\api.yinghuo.com\src\middleware\errorCatch.js:3:191)
+    at F:\外包\api.yinghuo.com\src\middleware\errorCatch.js:3:402
+*************** error log end ***************
+

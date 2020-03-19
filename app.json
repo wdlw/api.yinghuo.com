@@ -1,0 +1,13 @@
+{
+	"apps": [
+		{
+			"name": "tao",
+			"script": "./src/index.js",
+			"watch": false,
+			"exec_interpreter": "babel-node",
+			"exec_mode": "cluster",
+			"instances": "max",
+			"env": {"NODE_ENV": "production"}
+		}
+	]
+}

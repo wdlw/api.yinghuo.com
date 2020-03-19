@@ -1,0 +1,96 @@
+[2020-03-05T16:57:26.704] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: PUT
+request originalUrl:  /user
+request client ip:  127.0.0.1
+request body: 
+{"userId":1,"errMsg":"getUserInfo:ok","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132"},"signature":"67f0b82da7c837f2706ea0631c05d1d888d45c98","encryptedData":"MiIs4/J34w3vx3HiPo85DnmuGaI44VzsbnH0W4RWRRXy9qZQr9S7QcAL3Rc6Pkq7uc7em/nm5LQDOA0Rckt0JGudQKdTljEmcJpwae0DDXnkl9ljRutyri7yDLYd3vcPbEg4Lq5h2GH5sqP2G2EqfKGuhSbEnlOJ44EBYLmWRlzm0COUPjvqLJ3eUyHOHyWEcjg6QGrX0Rz/Gf1vDBSk6B2qsdwNDJW254mm+9NPuKd6fxOMxjUXlBTZ3wvlsjClScHyZ3qsW3uK2qZAsuMroANu+BS2LAIQOPE6q21PgjbVhNVw55lnZQN3BQ7E4QreB8wDw5gyqkygQT5WYVgI/APwm/9k7kIXi+YYObdKIwntqjiFdfR6IsTwa1KlhiPIcUj0m+PC29PAlQqZGvi/3Vomkd6Tis9rtRJNZyQVAM+/4wBHOJ9jcrzq/R8VPmV/g8sj2jquvyEy6tpxM3n81SwFe/G1j7xptnhNwxVofFU=","iv":"PZooL2K5rpjtbXxZOI0LtQ=="}
+response time: 28
+err name: ReferenceError
+err message: logger is not defined
+err stack: ReferenceError: logger is not defined
+    at _callee$ (F:\外包\api.yinghuo.com\src\middleware/errorCatch.js:10:3)
+    at tryCatch (F:\外包\api.yinghuo.com\node_modules\babel-polyfill\node_modules\regenerator-runtime\runtime.js:65:40)
+    at Generator.invoke [as _invoke] (F:\外包\api.yinghuo.com\node_modules\babel-polyfill\node_modules\regenerator-runtime\runtime.js:303:22)
+    at Generator.prototype.<computed> [as throw] (F:\外包\api.yinghuo.com\node_modules\babel-polyfill\node_modules\regenerator-runtime\runtime.js:117:21)
+    at step (F:\外包\api.yinghuo.com\src\middleware\errorCatch.js:3:191)
+    at F:\外包\api.yinghuo.com\src\middleware\errorCatch.js:3:402
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+*************** error log end ***************
+
+[2020-03-05T16:58:21.575] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: PUT
+request originalUrl:  /user
+request client ip:  127.0.0.1
+request body: 
+{"userId":1,"errMsg":"getUserInfo:ok","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132"},"signature":"67f0b82da7c837f2706ea0631c05d1d888d45c98","encryptedData":"GQsOdsihNBgrCP1hT533ELN6SeWJ8NegH5jYKUAw3AVnX//31tsBtyQOloTlKOBL/84PCYbRo1QlbKSDHCLz74T2QTfI+c7xLWdMryobKgs5xOIs/3E8U5ZyffR/V/R6djU0YVcLGWpTPiJp/GPFyTkJoX19d24VLH8JgF5fxzWZxx9aFQ+ndzErkkHqgNfvHxWbodFZMDiskSPtlaUYm9EfXdxbo1+ZHkowBFlHqY47J/hEj4K1YFEPw3Xy/3yJAvSjwAFMIETQyMEYyjvisAxixNLqADzkPS+ZnD0njbgr+ipvQiVulmCuDqxh8fAUeMm6wa/bFYhsIHGQ8kU/Y5o+fJKhvdUv5FB5cMzoHf9TibdSz828NByoe4v7HdtjjH0TaFkYoCFjzl8/4nol+LrMtyNnIshBfBQpDJ8wkuinlW1y1gNyEPE8j5tWQLPdnGP5JMHikBQhitQ4ma4yI0/jBbtH3LC5kk2fsqTtV5Y=","iv":"wrKbG56PyvtIhhA/vKFKhA=="}
+response time: 76
+err name: ReferenceError
+err message: logger is not defined
+err stack: ReferenceError: logger is not defined
+    at _callee$ (F:\外包\api.yinghuo.com\src\middleware/errorCatch.js:10:3)
+    at tryCatch (F:\外包\api.yinghuo.com\node_modules\babel-polyfill\node_modules\regenerator-runtime\runtime.js:65:40)
+    at Generator.invoke [as _invoke] (F:\外包\api.yinghuo.com\node_modules\babel-polyfill\node_modules\regenerator-runtime\runtime.js:303:22)
+    at Generator.prototype.<computed> [as throw] (F:\外包\api.yinghuo.com\node_modules\babel-polyfill\node_modules\regenerator-runtime\runtime.js:117:21)
+    at step (F:\外包\api.yinghuo.com\src\middleware\errorCatch.js:3:191)
+    at F:\外包\api.yinghuo.com\src\middleware\errorCatch.js:3:402
+*************** error log end ***************
+
+[2020-03-05T16:59:24.712] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: PUT
+request originalUrl:  /user
+request client ip:  127.0.0.1
+request body: 
+{"userId":1,"errMsg":"getUserInfo:ok","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132"},"signature":"67f0b82da7c837f2706ea0631c05d1d888d45c98","encryptedData":"OQZtQNDTFzW+H38cm8XdWdJDEs5fn5v8AhZdoE5wIs+QieUjnkwwi+TwylV1AbNY7VVHUWjGIaadA/BJzOOi4QrQ7C5gFjkZ+kQAPLTbWS6VW0aU2893Yd06WwhsGHr7LCFBKEke0PQ5OfrtsAlW3b1/fYKGHZsfklPKvtfNBGkxlvThO6ga8weJCg6SL3/wwjHaGszQKhVwm5/z7n5EeL4aEr1GELPxDS78ciR1txPwSd/pZCgJLtA3+P7iSsUMIM2YvhZIjeeMO9TpIE62LtJCETy1akFw11lyAo5//uPgYE4FNz06SYvfGmCvU9OE1QscLIxvMh1fUH+gmGRSFb+ozTf42TZKUTVGeyMv+s8LGqMeFqiSWqJZn1uDrRydtOpDwKFCX5xDE0J0yrRKpQKdU1+JwYlRoB8ZGeuCrQzBEn2nX+Nwf55ZGa5XdfI4Qx0cNBrwHmAWhQYihz1fc3/Bk2Z7Kr8f1LsFCraWNgM=","iv":"gGpkqrTwIoEuYCUCw0wd4w=="}
+response time: 68
+err name: ReferenceError
+err message: logger is not defined
+err stack: ReferenceError: logger is not defined
+    at _callee$ (F:\外包\api.yinghuo.com\src\middleware/errorCatch.js:10:3)
+    at tryCatch (F:\外包\api.yinghuo.com\node_modules\babel-polyfill\node_modules\regenerator-runtime\runtime.js:65:40)
+    at Generator.invoke [as _invoke] (F:\外包\api.yinghuo.com\node_modules\babel-polyfill\node_modules\regenerator-runtime\runtime.js:303:22)
+    at Generator.prototype.<computed> [as throw] (F:\外包\api.yinghuo.com\node_modules\babel-polyfill\node_modules\regenerator-runtime\runtime.js:117:21)
+    at step (F:\外包\api.yinghuo.com\src\middleware\errorCatch.js:3:191)
+    at F:\外包\api.yinghuo.com\src\middleware\errorCatch.js:3:402
+*************** error log end ***************
+
+[2020-03-05T17:01:33.798] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: PUT
+request originalUrl:  /user
+request client ip:  127.0.0.1
+request body: 
+{"userId":1,"errMsg":"getUserInfo:ok","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132"},"signature":"67f0b82da7c837f2706ea0631c05d1d888d45c98","encryptedData":"wk3H92JGJ02dTd8R52ygbd4VjyLgWnscCi42fUCOcUhzmFt7UEZjeiJxSSG3D31rJxtJ8OT1zboydWQnyqARkNE/XvMTsw/Wx8KyTJzDLgT6/NiPEc/v3HHVSKHb2lRZs+2jlZv/ORkelRlphTcMzkobslMbnmRQCMsgAn83VzMshi598vvMkEf+pP8uA9hpPenqfC0V35ybzjcPyOVsDgksS5JQgGFCm9O9+bkouSaqACpTME/mlmSFJvyETFyLdugxH8KPh/ImwmI38OP5CYQj1bvibrRGmXChUTH5fH9KxNQqh04Sukho0M6zz+XBA8WKNJ6rzvKc6J6iA+E+e0mYgvOr2Hcr7RL9dRkI4rrMZfozNBESEbI5QVjZEoxUX/jUasYW2D1TueuNk0doPoi8GYnCsKIXBLrrc4flO6BK+nfyxwc3fhOQH1t5aPCNsny8F+Ise88FOmSe2aNSu/ltTpcE4D0sAnHCX1wr7kU=","iv":"t80b30GwT1hZCr/mnvVDpQ=="}
+response time: 88
+err name: ReferenceError
+err message: logger is not defined
+err stack: ReferenceError: logger is not defined
+    at _callee$ (F:\外包\api.yinghuo.com\src\middleware/errorCatch.js:10:3)
+    at tryCatch (F:\外包\api.yinghuo.com\node_modules\babel-polyfill\node_modules\regenerator-runtime\runtime.js:65:40)
+    at Generator.invoke [as _invoke] (F:\外包\api.yinghuo.com\node_modules\babel-polyfill\node_modules\regenerator-runtime\runtime.js:303:22)
+    at Generator.prototype.<computed> [as throw] (F:\外包\api.yinghuo.com\node_modules\babel-polyfill\node_modules\regenerator-runtime\runtime.js:117:21)
+    at step (F:\外包\api.yinghuo.com\src\middleware\errorCatch.js:3:191)
+    at F:\外包\api.yinghuo.com\src\middleware\errorCatch.js:3:402
+*************** error log end ***************
+
+[2020-03-05T17:08:55.421] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: PUT
+request originalUrl:  /user
+request client ip:  127.0.0.1
+request body: 
+{"userId":1,"errMsg":"getUserInfo:ok","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132"},"signature":"67f0b82da7c837f2706ea0631c05d1d888d45c98","encryptedData":"668xkMycnLBLK82tUk/dHu995+j1sNeQJxm+65YxlZeaw2gNmc0vIA6PSgmXYntsUP6/5URrftu5w9MLcpOHoX4gmxSO9wNdBo0Zdw0gBSY5aAUH3EWC29WNoinAduZN4NkSODhvMhidunCF+dow/5+EjaVpsahFFYOIjIgcpWa72XFr7lwXEnmqgRe0NHU/f3WqB5buZj7jeHLdFbuaMTrHPpB8qoxTA+NKkuDgzVa8KWOHDsP+JsOzE6bPIEJRkJciOv+qyUQIbDkpsy1+S/7/kSZLS1oSTGzHS0y9062qkygBCjahzMPe2F148O0CkNY7FCyjHbT1ZqRij8LLak2e2bUKQze3JYPKP+v0z2N9AwRi6Hi5qjcMftsstGvgCcFHoFgE+cizN++Z0gT/i4xzIG44dHR2UVcKtq7TTeGYG+qas5RX55HQRMoBn4lJk6NO8QMoYvebTM1VBRn4K+fZG0mGmdgMRs3b2bpwkuM=","iv":"yxKjQPehcRU2V0TIuL3hJA=="}
+response time: 75
+err name: ReferenceError
+err message: logger is not defined
+err stack: ReferenceError: logger is not defined
+    at _callee$ (F:\外包\api.yinghuo.com\src\middleware/errorCatch.js:10:3)
+    at tryCatch (F:\外包\api.yinghuo.com\node_modules\babel-polyfill\node_modules\regenerator-runtime\runtime.js:65:40)
+    at Generator.invoke [as _invoke] (F:\外包\api.yinghuo.com\node_modules\babel-polyfill\node_modules\regenerator-runtime\runtime.js:303:22)
+    at Generator.prototype.<computed> [as throw] (F:\外包\api.yinghuo.com\node_modules\babel-polyfill\node_modules\regenerator-runtime\runtime.js:117:21)
+    at step (F:\外包\api.yinghuo.com\src\middleware\errorCatch.js:3:191)
+    at F:\外包\api.yinghuo.com\src\middleware\errorCatch.js:3:402
+*************** error log end ***************
+

@@ -1,0 +1,13 @@
+[2020-03-18T10:41:59.350] [INFO] resLogger - 
+*************** response log start ***************
+request method: PUT
+request originalUrl:  /user
+request client ip:  127.0.0.1
+request body: 
+{"userId":1,"errMsg":"getUserInfo:ok","rawData":"{\"nickName\":\"@丶海阔天空\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Haidian\",\"province\":\"Beijing\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132\"}","userInfo":{"nickName":"@丶海阔天空","gender":1,"language":"zh_CN","city":"Haidian","province":"Beijing","country":"China","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132"},"signature":"58505412cc8d2b64625c3e5663877aae62f80797","encryptedData":"3LvJGgaQ1HwSFLhPQ2R/RorZoMsV4RlXNVPr02kv7MIxHx/TY4GFwU0qTqAjrKL91hHu4QAFNP63PXB0fIcHNFRm0g7GX7hFWi81TIityU6xH8W4K99yKFIg9X8zepp+/dIagFz13hxXrrWUzAz48260aOkUo0stk1LqCRbyoGTHAQANp8QMlL64LYHj+Rty8ssHYhw53z8qBWe9mhaDqCoCgKAIhqeSXe5daK2pkzEy8qpSsUU2CtyjsEGVx5rzWb1taX7FN22XUqG51RWwx46MFHUJu4yXOV5ohBMHyxeiahxvVExJpzvRa+9v6K9ow3jvPqFpj+E064dpeNnZTkXSxPiINeMfMJQ3j58FrXDY0tnZjiUn4EucTyB2GxG3AmZrqihG9xlbiXD6jTMFj+tBG0QUAjksoPkTYYT8o7DrAoaa5ehKKNcq1nPmCZq5lTMWXcq7a7Ckn9xDTGHSauUgyU8nTCaNqqLfxHglmOI=","iv":"4Bkdlg9XHKh6p1XgT5ebpg=="}
+response time: 67
+response status: 200
+response body: 
+{"success":1,"data":{"id":1,"nickName":"@丶海阔天空","avatarUrl":"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJpX356K341INxNUVYaPHzWnng0ZtsVhKnEmflEECc73a5Qywp95OWRlIhIkROGRoibY0iciboVctWgw/132","phone":null,"openid":"oxhcJ0aM6ilPMkNld4vsrBbU0mTU","created_at":"2020年2月28日"}}
+*************** response log end ***************
+
