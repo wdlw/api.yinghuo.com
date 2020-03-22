@@ -6,9 +6,8 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "node src/app.js",
-		"bstart": "babel-node src/app.js",
-		"dev": "babel-node src/app.js"
+		"start": "node src/start.js",
+		"dev": "nodemon src/start.js"
 	},
 	"repository": {
 		"type": "git",
@@ -75,6 +74,7 @@
 		"babel-plugin-syntax-exponentiation-operator": "^6.13.0",
 		"babel-plugin-transform-exponentiation-operator": "^6.24.1",
 		"babel-preset-env": "^1.7.0",
-		"babel-preset-es2015": "^6.24.1"
+		"babel-preset-es2015": "^6.24.1",
+		"nodemon": "^2.0.2"
 	}
 }

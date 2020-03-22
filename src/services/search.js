@@ -10,8 +10,8 @@ import {
 import _ from "lodash";
 import {Op} from 'sequelize';
 import {CommentModel, GoodsModel} from "../models/index_new";
-import {getCardList} from "../services/goods"
-import {getKey, setKey, hmsetKey, getMKey, hgetAllKey, hkeys, hgetKey} from "../tool/redis";
+// import {getCardList} from "../services/goods"
+// import {getKey, setKey, hmsetKey, getMKey, hgetAllKey, hkeys, hgetKey} from "../tool/redis";
 
 let moment = require('moment');
 
