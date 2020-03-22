@@ -49,7 +49,7 @@
 		"npm-git-install": "^0.3.0",
 		"qr-image": "^3.2.0",
 		"require-directory": "^2.1.1",
-		"sequelize": "^4.39.0",
+		"sequelize": "^5.15.1",
 		"session": "^0.1.0",
 		"should": "^13.2.1",
 		"superagent": "^3.8.2",
