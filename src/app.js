@@ -134,7 +134,7 @@ app
 	.use(MainRoutes.allowedMethods());
 
 
-console.log("instance ID:", process.env.NODE_APP_INSTANCE);
+// console.log("instance ID:", process.env.NODE_APP_INSTANCE);
  //if (process.env.NODE_APP_INSTANCE === '0') {
 	// 定时任务
 	// schedule.register();
