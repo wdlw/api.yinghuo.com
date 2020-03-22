@@ -1,3 +1,5 @@
-require('babel-register');
-require('babel-polyfill');
-require('./app.js'); // 设置对应位置
+require("babel-polyfill");
+require("babel-register")({
+	presets: ["env"],
+});
+require("./app.js"); // 设置对应位置
